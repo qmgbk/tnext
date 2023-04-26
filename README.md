@@ -1,2 +1,2 @@
 # tnext
-*continue media
+*continue to media
